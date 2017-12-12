@@ -1,4 +1,4 @@
-package com.test.info.model;
+package info.model;
 
 public class Task {
 

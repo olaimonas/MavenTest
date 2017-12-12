@@ -1,4 +1,4 @@
-package com.test.info.service;
+package info.service;
 
 public interface TaskAction {
 
